@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChhavi07-arch&count_bg=%2358A6FF&title_bg=%23555555&icon=github.alt&icon_color=%23ffffff&title=visitors&edge_flat=true)](https://github.com/Chhavi07-arch)
+![Profile Views](https://komarev.com/ghpvc/?username=Chhavi07-arch&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
