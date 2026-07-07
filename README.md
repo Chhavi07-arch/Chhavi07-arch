@@ -67,9 +67,9 @@ I'm a **Computer Science enthusiast** with a deep passion for **AI and building 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chhavi07-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats-delta-plum-25.vercel.app/api?username=Chhavi07-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhavi07-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img src="https://github-readme-stats-delta-plum-25.vercel.app/api/top-langs/?username=Chhavi07-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
 
 <br/>
 
