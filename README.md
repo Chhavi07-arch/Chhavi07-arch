@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="coding gif" width="360" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+<img align="right" alt="coding gif" width="360" src="https://user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif"/>
 
 ### Hey, I'm Chhavi 👋
 
